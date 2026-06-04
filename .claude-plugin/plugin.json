@@ -1,0 +1,20 @@
+{
+  "name": "setup-harness",
+  "version": "0.1.0",
+  "description": "Set up a project-specific Claude Code harness with agents, skills, rules, settings, checkpointing, and Codex double-check workflows.",
+  "author": {
+    "name": "Tasuku Onizawa",
+    "email": "tasuku_onizawa@salt-2.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onitasu/setup-harness-plugin",
+  "repository": "https://github.com/onitasu/setup-harness-plugin.git",
+  "keywords": [
+    "claude-code",
+    "codex",
+    "harness",
+    "agents",
+    "skills",
+    "setup"
+  ]
+}
