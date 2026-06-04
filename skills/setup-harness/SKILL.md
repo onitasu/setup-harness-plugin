@@ -7,12 +7,12 @@ description: Set up a project-specific Claude Code harness. Use when the user as
 
 Use this skill to build a project-specific Claude Code harness.
 
-The canonical workflow for this plugin is stored in `../../commands/setup-harness.md`.
+The canonical workflow for this plugin is stored in `references/setup-harness-workflow.md`.
 Before acting, read that file and follow it as the source of truth.
 
 ## Invocation Notes
 
-- For Claude Code users, this plugin also exposes the legacy slash command `/setup-harness`.
+- For Claude Code users, this skill is the `/setup-harness` user-invoked entrypoint.
 - For Codex users, treat this skill as the entrypoint and adapt Claude-specific files into Codex equivalents only when the user asks for Codex harness support.
 - Do not skip the discovery and design phases unless the user explicitly asks for a narrowly scoped update to an existing harness.
 

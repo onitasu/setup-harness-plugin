@@ -40,8 +40,8 @@ $setup-harness Set up a coding-agent harness for this repository.
 
 ## Components
 
-- `commands/setup-harness.md`: legacy Claude Code slash command, kept for compatibility.
 - `skills/setup-harness/SKILL.md`: primary plugin skill entrypoint.
+- `skills/setup-harness/references/setup-harness-workflow.md`: full harness setup workflow.
 - `.claude-plugin/plugin.json`: Claude Code plugin manifest.
 - `.codex-plugin/plugin.json`: Codex plugin manifest.
 - `.claude-plugin/marketplace.json`: marketplace manifest for GitHub install.

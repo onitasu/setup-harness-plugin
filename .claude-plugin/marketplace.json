@@ -6,13 +6,13 @@
   },
   "metadata": {
     "description": "Marketplace for the Setup Harness plugin.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "pluginRoot": "."
   },
   "plugins": [
     {
       "name": "setup-harness",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": {
         "source": "github",
         "repo": "onitasu/setup-harness-plugin",
